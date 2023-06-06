@@ -18,7 +18,7 @@ public class OrejasDeConejo {
     }
 
     public static void main(String[] args) {
-        // Ejemplo de uso del método calculateBunnyEars
+        
         Scanner leer = new Scanner (System.in);
         System.out.println("Ingrese la cantidad de conejos");
         int conejos =leer.nextInt();
